@@ -72,7 +72,7 @@ for (const config of Object.values(providerConfig)) {
 
 const constitutionUrl =
   process.env.CONSTITUTION_URL ||
-  "https://raw.githubusercontent.com/clifer/open-inquiry-constitution/main/CONSTITUTION.md";
+  "https://raw.githubusercontent.com/open-inquiry/open-inquiry-constitution/main/CONSTITUTION.md";
 
 const FORMAT_INSTRUCTIONS = `Write the answer as clean GitHub-Flavored Markdown.
 Use short descriptive headings when they improve navigation.

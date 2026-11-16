@@ -122,7 +122,7 @@ Search is enabled symmetrically for the baseline and Constitution-guided answer 
 
 ## Open source and attribution
 
-This project is licensed under the [MIT License](LICENSE). The bundled Constitution fallback snapshot comes from [clifer/open-inquiry-constitution](https://github.com/clifer/open-inquiry-constitution), which is also MIT-licensed. See [NOTICE.md](NOTICE.md).
+This project is licensed under the [MIT License](LICENSE). The bundled Constitution fallback snapshot comes from [open-inquiry/open-inquiry-constitution](https://github.com/open-inquiry/open-inquiry-constitution), which is also MIT-licensed. See [NOTICE.md](NOTICE.md).
 
 Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and [SECURITY.md](SECURITY.md).
 

@@ -9,7 +9,7 @@ experiment easier to inspect, reproduce, understand, or safely deploy without
 turning the app into a general-purpose chat product.
 
 Changes to the **Open Inquiry Constitution itself** belong in
-`clifer/open-inquiry-constitution`. The snapshot here is only a fallback copy.
+`open-inquiry/open-inquiry-constitution`. The snapshot here is only a fallback copy.
 
 ## Local development
 

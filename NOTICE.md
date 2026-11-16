@@ -5,7 +5,7 @@
 This repository includes `constitution.snapshot.md`, a fallback snapshot of the
 Open Inquiry Constitution from:
 
-https://github.com/clifer/open-inquiry-constitution
+https://github.com/open-inquiry/open-inquiry-constitution
 
 The Open Inquiry Constitution repository is licensed under the MIT License.
 The live application prefers the canonical Constitution source and labels use
